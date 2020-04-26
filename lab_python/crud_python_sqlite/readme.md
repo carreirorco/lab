@@ -1,0 +1,1 @@
+referencia: [Live de Python #8 - CRUD com SQLite3](https://youtu.be/2WUo5tD-eIA?list=PLOQgLBuj2-3Kc7PBT3BwiM-E99LQnjMln)
